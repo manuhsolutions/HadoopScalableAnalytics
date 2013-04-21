@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/44/trunk/hadoop-computer-vision/src/edu/vt/io
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/44/trunk/hadoop-computer-vision/src/edu/vt/io/Image.java
+END
+WindowInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/42/trunk/hadoop-computer-vision/src/edu/vt/io/WindowInfo.java
+END
+LongArrayWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/22/trunk/hadoop-computer-vision/src/edu/vt/io/LongArrayWritable.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/34/trunk/hadoop-computer-vision/src/edu/vt/output
+END
+ImageOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/31/trunk/hadoop-computer-vision/src/edu/vt/output/ImageOutputFormat.java
+END
+ImageRecordWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/34/trunk/hadoop-computer-vision/src/edu/vt/output/ImageRecordWriter.java
+END

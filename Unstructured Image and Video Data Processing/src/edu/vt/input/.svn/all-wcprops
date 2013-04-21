@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/42/trunk/hadoop-computer-vision/src/edu/vt/input
+END
+ImageRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/42/trunk/hadoop-computer-vision/src/edu/vt/input/ImageRecordReader.java
+END
+ImageInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/28/trunk/hadoop-computer-vision/src/edu/vt/input/ImageInputFormat.java
+END

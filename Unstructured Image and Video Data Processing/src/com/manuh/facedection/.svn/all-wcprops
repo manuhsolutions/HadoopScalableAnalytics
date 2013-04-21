@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/56/trunk/hadoop-computer-vision/src/edu/vt/example
+END
+SobelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53/trunk/hadoop-computer-vision/src/edu/vt/example/SobelTest.java
+END
+EqualizeHist.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/53/trunk/hadoop-computer-vision/src/edu/vt/example/EqualizeHist.java
+END
+IOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/54/trunk/hadoop-computer-vision/src/edu/vt/example/IOTest.java
+END
+FaceDetect.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/55/trunk/hadoop-computer-vision/src/edu/vt/example/FaceDetect.java
+END
+CannyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/45/trunk/hadoop-computer-vision/src/edu/vt/example/CannyTest.java
+END
+EqualizeHist2.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/56/trunk/hadoop-computer-vision/src/edu/vt/example/EqualizeHist2.java
+END
+FaceDetect2.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/54/trunk/hadoop-computer-vision/src/edu/vt/example/FaceDetect2.java
+END
